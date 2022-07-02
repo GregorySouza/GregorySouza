@@ -1,10 +1,6 @@
-- 👋 Hi, I’m GregorySouza
-- 👀 I’m interested in learn programation
-- 🌱 I’m currently learning how to make games
-- 💞️ I’m looking to collaborate on make games
-- 📫 How to reach me souza.gregory@escola.pr.gov.br
+- 👋 Olá, eu sou o **@GregorySouza**
+- 👀 Atualmente, estou interessado em aprender mais sobre programação
+- 🌱 Estou rescentemente aprendendo sobre HTML
+- 📫 uma forma de me contatar é clicando no [email](souza.gregory@escola.pr.gov.br)
+- Já aprendi sobre
 
-<!---
-GregorySouza/GregorySouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
