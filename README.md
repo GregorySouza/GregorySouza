@@ -3,7 +3,9 @@
 - 🌱 Estou rescentemente aprendendo sobre 
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- 📫 uma forma de me contatar é clicando no [email](souza.gregory@escola.pr.gov.br)
+- 📫 uma forma de me contatar é clicando no 
+
+<a href="mailto:souza.gregory@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 - Já aprendi sobre
 
 ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
