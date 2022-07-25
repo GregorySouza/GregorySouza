@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou o **@GregorySouza**
 - 👀 Atualmente, estou interessado em aprender mais sobre programação
-- 🌱 Estou rescentemente aprendendo sobre 
+- 🌱 Estou recentemente aprendendo sobre 
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - 📫 uma forma de me contatar é pelo email souza.gregory@escola.pr.gov.br
